@@ -10,3 +10,9 @@
 .centertext {
     text-align: center;
 }
+
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    background: #f8f9fa;
+}
