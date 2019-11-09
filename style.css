@@ -16,3 +16,7 @@ footer {
     padding-top: 20px;
     background: #f8f9fa;
 }
+
+footer #banner {
+    height: 100px;
+}
